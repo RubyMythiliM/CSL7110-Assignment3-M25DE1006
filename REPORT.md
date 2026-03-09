@@ -248,26 +248,8 @@ The complete implementation of the assignment is available in the GitHub reposit
 
 The repository contains:
 
-* Jupyter Notebook implementation
+* Notebook implementation
 * Report documentation
 * Project README file
-
-
-
-Name it exactly:
-
-```
-M25DE1006_CSL7110_Assignment3.pdf
-```
-
-### 3️⃣ Push updated REPORT.md
-
-```
-git add REPORT.md
-git commit -m "Update final assignment report"
-git push
-```
-
----
 
 
